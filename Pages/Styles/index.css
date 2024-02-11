@@ -37,7 +37,7 @@ body{
     width: 60%;
     height: 30px;
     border-radius: 12px;
-    background-image: url("../imagens/search_FILL0_wght400_GRAD0_opsz24.png");
+    background-image: url("../images/search_FILL0_wght400_GRAD0_opsz24.png");
     background-position: right center;
     background-repeat: no-repeat;
     padding-right: 30px; /* Espaço para a lupa */
@@ -49,7 +49,7 @@ body{
     width: 60%;
     height: 30px;
     border-radius: 12px;
-    background-image: url("../imagens/search_FILL0_wght400_GRAD0_opsz24.png");
+    background-image: url("../images/search_FILL0_wght400_GRAD0_opsz24.png");
     background-position: right center;
     background-repeat: no-repeat;
 }
